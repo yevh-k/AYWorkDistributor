@@ -377,7 +377,7 @@
         root.innerHTML = `
 <div class="ay-left">
  <div class="ay-title" title="Designed by Kateryna Androshchuk">AY Work Distributor</div>
- <div class="ay-email">yevhenii.karpenko@cevalogistics.com</div>
+ <div class="ay-email">yevhenii.karpenko@sheingroup.com</div>
  <div class="ay-sub">V11.13 remote · SharePoint auto productivity · High Risk 50P5L1A</div>
  <div class="ay-buttons"><button class="btn-load" id="aywdLoad">LOAD WMS</button><button class="btn-copy" id="aywdCopy">COPY</button><button class="btn-undo" id="aywdUndo">UNDO</button><button class="btn-clear" id="aywdClear">CLEAR</button><button class="btn-close" id="aywdClose">CLOSE</button></div>
  <div class="small">Last load: <span id="aywdLoadedAt">-</span></div>
